@@ -1,0 +1,14 @@
+# LoomSense Mobile
+
+LoomSense is a mobile application designed to assist handweavers by tracking treadle sequences, monitoring weaving progress, and preserving project history while supporting creative freedom.
+
+## Project Documentation
+
+The `/docs` directory contains the project's design documentation:
+
+- Business Rules
+- Domain Model
+- System Architecture
+- Business Logic
+
+These documents describe the business concepts and architecture that guide the implementation of LoomSense.
